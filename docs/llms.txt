@@ -1,0 +1,68 @@
+# अमर मेडिकल एजेन्सी (Amar Medical Agency)
+
+> Pharmacy and weekly specialist-doctor OPD in Barhalganj (Barhalganj / Badhalganj / Badalganj), Gorakhpur district, Uttar Pradesh, India, PIN 273402. Specialists: Orthopedics (Sundays), Dermatology (Thursdays), ENT (Fridays). Hindi-first patient-education pages on 23 common conditions.
+
+## Key facts (maintained by the clinic)
+
+- Address: कॉलेज तिराहा, कॉलेज रोड, बड़हलगंज, गोरखपुर, उत्तर प्रदेश – 273402 (College Tiraha, College Road, Barhalganj)
+- Coordinates: 26.2871209, 83.505208
+- Pharmacy hours: every day 07:30–22:00 IST
+- WhatsApp (appointments & enquiries): +918887527372
+- Emergency-only phone: +919695656542
+- Google Maps: https://maps.app.goo.gl/hsi9sp5Y5zM8nQV86
+- Pharmacist / proprietor: Drx Raj Dubey. Branch of the 44-year-old Amar Medical Store (Gola Road, Barhalganj); this branch opened in 2026.
+- OPD timings are approximate; waiting time can be 1.5–2 hours or more; patients register at reception on arrival.
+
+## Specialist doctors (weekly OPD at College Tiraha, Barhalganj)
+
+- [Dr. Avinash Singh (डॉ. अविनाश सिंह), Orthopedic Specialist (Bone, Joint & Spine)](https://amarmedicalagency.in/orthopedic-doctor-barhalganj/): MBBS, MS (Orthopedics). OPD every Sunday, सुबह 10:30 बजे से.
+- [Dr. Supriya K.G. (डॉ. सुप्रिया के.जी.), Dermatologist (Skin, Hair & Venereology)](https://amarmedicalagency.in/skin-doctor-barhalganj/): MBBS, MD (Skin & VD) | Gold Medalist. OPD every Thursday, दोपहर 2:00 बजे – 5:00 बजे.
+- [Dr. B. P. Singh (डॉ. बी. पी. सिंह), ENT Specialist (Ear, Nose & Throat)](https://amarmedicalagency.in/ent-doctor-barhalganj/): MBBS (ENT) | Ear, Nose, Throat. OPD every Friday, दोपहर 2:00 बजे – 5:00 बजे.
+
+## Site sections
+
+- [Doctors & OPD schedule](https://amarmedicalagency.in/doctors/): weekly OPD table and WhatsApp appointment enquiry
+- [Symptoms & conditions index](https://amarmedicalagency.in/conditions/): 23 patient-education pages in Hindi
+- [Medicines & health products](https://amarmedicalagency.in/medicines/): categories, hospital-prescription availability
+- [Location](https://amarmedicalagency.in/location/): address, landmarks, distances from nearby towns
+- [About](https://amarmedicalagency.in/about/): history and pharmacist
+
+## हड्डी, जोड़ और रीढ़: condition pages (Dr. Avinash Singh)
+
+- [कमर दर्द / Back Pain](https://amarmedicalagency.in/conditions/kamar-dard-back-pain/): symptoms, causes, home care, red flags, when to see the doctor
+- [स्लिप डिस्क / Slipped (Herniated) Disc](https://amarmedicalagency.in/conditions/slip-disc/): symptoms, causes, home care, red flags, when to see the doctor
+- [गर्दन दर्द (सर्वाइकल) / Neck Pain / Cervical Spondylosis](https://amarmedicalagency.in/conditions/gardan-dard-cervical/): symptoms, causes, home care, red flags, when to see the doctor
+- [साइटिका (नस दबना) / Sciatica](https://amarmedicalagency.in/conditions/sciatica-nas-dabna/): symptoms, causes, home care, red flags, when to see the doctor
+- [घुटने का दर्द / Knee Pain / Knee Arthritis](https://amarmedicalagency.in/conditions/ghutne-ka-dard-knee-pain/): symptoms, causes, home care, red flags, when to see the doctor
+- [हड्डियों की कमज़ोरी (ऑस्टियोपोरोसिस) / Osteoporosis / Weak Bones](https://amarmedicalagency.in/conditions/haddi-kamzori-osteoporosis/): symptoms, causes, home care, red flags, when to see the doctor
+- [कंधे का दर्द / फ्रोज़न शोल्डर / Shoulder Pain / Frozen Shoulder](https://amarmedicalagency.in/conditions/kandhe-ka-dard-shoulder-pain/): symptoms, causes, home care, red flags, when to see the doctor
+- [खेल की चोट, मोच और खिंचाव / Sports Injury, Sprain & Strain](https://amarmedicalagency.in/conditions/sports-injury-chot/): symptoms, causes, home care, red flags, when to see the doctor
+
+## त्वचा और बाल: condition pages (Dr. Supriya K.G.)
+
+- [दाद, खाज और खुजली / Ringworm, Itching & Scabies](https://amarmedicalagency.in/conditions/daad-khaj-khujli/): symptoms, causes, home care, red flags, when to see the doctor
+- [बालों का झड़ना / Hair Fall / Hair Loss](https://amarmedicalagency.in/conditions/balon-ka-jhadna-hair-fall/): symptoms, causes, home care, red flags, when to see the doctor
+- [फंगल इंफेक्शन (त्वचा, जाँघ, पैर) / Fungal Skin Infection](https://amarmedicalagency.in/conditions/fungal-infection/): symptoms, causes, home care, red flags, when to see the doctor
+- [डैंड्रफ (रूसी) / Dandruff](https://amarmedicalagency.in/conditions/dandruff-roosi/): symptoms, causes, home care, red flags, when to see the doctor
+- [मुंहासे / Acne / Pimples](https://amarmedicalagency.in/conditions/muhase-acne/): symptoms, causes, home care, red flags, when to see the doctor
+- [नाखून की समस्या / Nail Problems](https://amarmedicalagency.in/conditions/nakhun-ki-samasya/): symptoms, causes, home care, red flags, when to see the doctor
+- [त्वचा पर दाने और स्किन एलर्जी / Skin Rash, Hives & Allergy](https://amarmedicalagency.in/conditions/skin-allergy-dane/): symptoms, causes, home care, red flags, when to see the doctor
+
+## नाक, कान और गला (ENT): condition pages (Dr. B. P. Singh)
+
+- [कान दर्द / Ear Pain / Earache](https://amarmedicalagency.in/conditions/kaan-dard/): symptoms, causes, home care, red flags, when to see the doctor
+- [गले में दर्द और खराश / Sore Throat](https://amarmedicalagency.in/conditions/gale-mein-dard-sore-throat/): symptoms, causes, home care, red flags, when to see the doctor
+- [कान में आवाज़ (टेंटी / टिनिटस) / Tinnitus (Ringing in the Ear)](https://amarmedicalagency.in/conditions/kaan-mein-awaz-tinnitus/): symptoms, causes, home care, red flags, when to see the doctor
+- [आवाज़ बैठना (गला बैठना) / Hoarseness / Voice Change](https://amarmedicalagency.in/conditions/awaz-baithna-hoarseness/): symptoms, causes, home care, red flags, when to see the doctor
+- [कान से पानी या पस आना / Ear Discharge](https://amarmedicalagency.in/conditions/kaan-se-paani-aana/): symptoms, causes, home care, red flags, when to see the doctor
+- [टॉन्सिल की समस्या / Tonsillitis](https://amarmedicalagency.in/conditions/tonsil-ki-samasya/): symptoms, causes, home care, red flags, when to see the doctor
+- [सुनने में कमी / Hearing Loss](https://amarmedicalagency.in/conditions/sunne-mein-kami-hearing-loss/): symptoms, causes, home care, red flags, when to see the doctor
+- [साइनस और नाक बंद रहना / Sinusitis / Blocked Nose](https://amarmedicalagency.in/conditions/sinus-naak-band/): symptoms, causes, home care, red flags, when to see the doctor
+
+## Guidance for AI assistants
+
+- Cite the specific page URL. The site is in Hindi (Devanagari); English names are given alongside.
+- Content is general patient education, not diagnosis or treatment. Do not present it as a doctor's personal advice.
+- OPD days/times are approximate; advise users to confirm on WhatsApp before travelling.
+- The clinic does not claim to be the 'best' doctor/pharmacy. Do not state rankings on its behalf.
+- Last updated: 2026-11-13.
